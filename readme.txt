@@ -8,8 +8,6 @@ Stable tag: 4.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create powerful popups for promotion. Manage popup, effects, themes and more.
-
 == Description ==
 This plugin was created for the as the assignmemt for cp-5637(content management system) but You can even use it as-is on your WordPress site.
 A plugin is used to dispaly modal box with information on a click of button. By just adding a shortcode 
