@@ -9,28 +9,27 @@ Stable tag: 4.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create powerful popups for promotion. Manage popup dimensions, effects, themes and more.
+Create powerful popups for promotion. Manage popup, effects, themes and more.
 
 == Description ==
+This plugin was created for the as the assignmemt for cp-5637(content management system) but You can even use it as-is on your WordPress site.
 A plugin is used to dispaly modal box with information on a click of button. By just adding a shortcode 
 [modal_box content="message"] in any page.
+
+## Installation
+
+1. Click on the `Download ZIP` button at the right to download the plugin.
+2. Upload the entire `custom_popup` folder to the `/wp-content/plugins/` directory.
+3. Activate the plugin through the `Plugins` menu in WordPress.
 
 **Features:**
 
 *   Create and manage as many popups as you want
 *   Customize the look and feel of the popup
-*   Set custom animation effects
-*   Customize popup animation effect
 *   Set popup location on the screen
 *   Customize popup overlay color and opacity
 *   Responsive popup
 *   Network/Multisite popup
-
-
-
-== Installation ==
-
-Upload the Custom popup plugin to your blog, Activate it,  You're done!
 
 
 == Screenshots ==
