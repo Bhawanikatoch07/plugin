@@ -36,6 +36,7 @@ function create_popup_function( $atts, $content = null ) {
 }
 add_shortcode('modal_box', 'create_popup_function');
 
+// include scripts and styles
 
 function wptuts_scripts_basic()
 {
