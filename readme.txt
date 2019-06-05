@@ -2,7 +2,6 @@
 Plugin Name: Custom popup
 Contributors:Bhawani katoch
 Donate link :https://github.com/Bhawanikatoch07/plugin
-Tags: popup box, popup form, popup message, popup window, popups, wordpress popup, simple popup, modal window, responsive popup
 Requires at least: 4.0
 Tested up to: 5.2
 Stable tag: 4.1.2
@@ -26,10 +25,7 @@ A plugin is used to dispaly modal box with information on a click of button. By 
 
 *   Create and manage as many popups as you want
 *   Customize the look and feel of the popup
-*   Set popup location on the screen
-*   Customize popup overlay color and opacity
 *   Responsive popup
-*   Network/Multisite popup
 
 
 == Screenshots ==
